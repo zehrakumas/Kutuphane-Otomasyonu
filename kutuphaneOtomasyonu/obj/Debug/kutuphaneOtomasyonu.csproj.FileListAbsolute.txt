@@ -1,0 +1,13 @@
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\bin\Debug\kutuphaneOtomasyonu.exe.config
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\bin\Debug\kutuphaneOtomasyonu.exe
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\bin\Debug\kutuphaneOtomasyonu.pdb
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.emanetduzenle.resources
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.Form1.resources
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.kitapduzenle.resources
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.uyeduzenle.resources
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.exe
+C:\Users\Zehra\source\repos\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\kutuphaneOtomasyonu.pdb
